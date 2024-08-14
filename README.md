@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img height="400" width="1600" src="https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/css-loader-large-1.gif">
+  <img height="300" width="1600" src="https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/css-loader-large-1.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed ElSayed Mahmoud</h1>
