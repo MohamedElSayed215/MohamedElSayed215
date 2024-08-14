@@ -1,5 +1,7 @@
-[![MasterHead](https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/css-loader-large-1.gif)
 
+<p align="center">
+  <img height="1600" width="524" src="https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/css-loader-large-1.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Mohamed ElSayed Mahmoud</h1>
 <h3 align="center">A passionate Embedded Software Engineer</h3>
