@@ -1,5 +1,10 @@
+[![MasterHead](https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/css-loader-large-1.gif)
+
+
 <h1 align="center">Hi 👋, I'm Mohamed ElSayed Mahmoud</h1>
 <h3 align="center">A passionate Embedded Software Engineer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelsayed215&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelsayed215" /> </p>
 
