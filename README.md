@@ -1,34 +1,67 @@
+<div align="center">
 
-<p align="center">
-  <img height="300" width="1600" src="https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/css-loader-large-1.gif">
-</p>
+```
+███╗   ███╗███████╗███████╗
+████╗ ████║██╔════╝██╔════╝
+██╔████╔██║█████╗  ███████╗
+██║╚██╔╝██║██╔══╝  ╚════██║
+██║ ╚═╝ ██║███████╗███████║
+╚═╝     ╚═╝╚══════╝╚══════╝
+```
 
-<h1 align="center">Hi 👋, I'm Mohamed ElSayed Mahmoud</h1>
-<h3 align="center">A passionate Embedded Software Engineer</h3>
+# Hi, I'm Mohamed ElSayed 👋
 
-<img align="right" alt="Coding" width="400" src="https://github.com/MohamedElSayed215/MohamedElSayed215/blob/main/programmer.gif">
+**System Administrator Trainee @ ITI — Intake 46**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelsayed215&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelsayed215" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsayed-529889348/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedElSayed215)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFE1?style=for-the-badge&logo=google-chrome&logoColor=black)](https://mohamedelsayed215.github.io/my-lab/)
 
-- 🌱 I’m currently learning **Embedded Linux**
+</div>
 
-- 💬 Ask me about **Embedded System**
+---
 
-- 📫 How to reach me **mohamedelsayedmahmoud21@gmail.com**
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I love challenges**
+- 🎓 Trainee at **Information Technology Institute (ITI)** — Intake 46, System Administration Track
+- 🌱 Currently learning **DevOps**, **Cloud-Native**, and **Linux Administration**
+- 🔭 Exploring **Kubernetes**, **OpenShift**, and container orchestration
+- 💬 Ask me about **Linux**, **Networking**, or **Git**
+- ⚡ Fun fact: I automate everything I can!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-elsayed-862751228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-elsayed-862751228/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mo7mdelsayed21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mo7mdelsayed21" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelsayed215&show_icons=true&locale=en&layout=compact" alt="mohamedelsayed215" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedelsayed215&show_icons=true&locale=en" alt="mohamedelsayed215" /></p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelsayed215&" alt="mohamedelsayed215" /></p>
+</div>
+
+---
+
+
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsayed-529889348/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelsayedmahmoud21@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  *"The best way to learn is to build."*
+</div>
