@@ -68,11 +68,11 @@ $ cat about.txt
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity
 
 <div align="center">
 
-![snake gif](https://github.com/MohamedElSayed215/MohamedElSayed215/blob/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedElSayed215&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffe1&line=00ffe1&point=ffffff)](https://github.com/MohamedElSayed215)
 
 </div>
 
